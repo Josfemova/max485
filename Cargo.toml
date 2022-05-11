@@ -1,6 +1,6 @@
 [package]
 name = "max485"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 description = "A simple embedded-hal driver for operating the MAX485 uart to rs485 module in half duplex mode."
 keywords = ["no-std", "driver", "embedded-hal", "rs485", "serial"]
